@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Bagade</h1>
-<h3 align="center">A Developer at AWS and Millennium Management currently working on low latency systems in the trading space</h3>
+<h3 align="center">A previous software engineer at AWS and Millennium Management currently working on low latency systems in the trading space</h3>
 
 - 🔭 I’m currently working at **Millennium Management**
 
