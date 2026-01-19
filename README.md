@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akshatbagade@gmail.com**
 
-- ⚡ Fun fact **I played soccer for 9 years at the highest level in Georgia**
+- ⚡ Fun fact **I played soccer for 9 years in the ENCL league in Georgia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
